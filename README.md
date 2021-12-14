@@ -11,4 +11,4 @@
                        [Facebook](https://www.facebook.com/ariful.hasan.129794) 
                        [Gmail](mdahtotul@gmail.com)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: Every error makes me strong.
+- ⚡ Fun fact: Every error helps me to improve my skills.
