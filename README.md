@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Python and AWS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-1-bbaf1.web.app/](https://my-portfolio-1-bbaf1.web.app/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://my-portfolio-1-bbaf1.web.app/)
 
-- 📝 I regularly write articles on [https://dev.to/arifulhasantotul](https://dev.to/arifulhasantotul)
+- 📝 I regularly write articles on [dev.to](https://dev.to/arifulhasantotul)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **mdahtotul@gmail.com**
+- 📫 Reach me through **mdahtotul@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JiTs-jcbqo1qq51AcA_PCcf6x8RsjjWyAFCi1R7nTYU/edit?usp=sharing](https://docs.google.com/document/d/1JiTs-jcbqo1qq51AcA_PCcf6x8RsjjWyAFCi1R7nTYU/edit?usp=sharing)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1JiTs-jcbqo1qq51AcA_PCcf6x8RsjjWyAFCi1R7nTYU/edit?usp=sharing)
 
 - ⚡ Fun fact **Explore new technologies**
 
