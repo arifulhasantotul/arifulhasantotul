@@ -1,5 +1,7 @@
+<img align="center" alt="masterhead" width="100%" height="250" src="https://dxminds.com/wp-content/uploads/2021/07/How-Much-Does-it-Cost-to-hire-Mern-stack-developer.jpg">
 <h1 align="center">Hi 👋, I'm MD ARIFUL HASAN</h1>
 <h3 align="center">A passionate and self-learner MERN developer from Bangladesh loves to explore new technologies.</h3>
+<img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifulhasantotul&label=Profile%20views&color=0e75b6&style=flat" alt="arifulhasantotul" /> </p>
 
