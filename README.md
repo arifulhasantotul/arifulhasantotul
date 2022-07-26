@@ -23,16 +23,19 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Images upload - MERN](https://dev.to/arifulhasantotul/single-and-multiple-images-upload-and-remove-from-cloudinary-using-node-js-multer-mongodb-1p2h)
+- [Data Modeling](https://dev.to/arifulhasantotul/data-modeling-aws-amplify-appsync-graphql-4l0n)
+- [Filter and Result](https://dev.to/arifulhasantotul/filter-and-result-aws-amplify-appsync-graphql-3mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/arifulhasantotul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arifulhasantotul" height="30" width="40" /></a>
-<a href="https://twitter.com/md_ariful_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_ariful_hasan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arifulhasantotul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arifulhasantotul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16421463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16421463" height="30" width="40" /></a>
 <a href="https://fb.com/ariful.hasan.129794" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariful.hasan.129794" height="30" width="40" /></a>
 <a href="https://instagram.com/ahtotul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahtotul" height="30" width="40" /></a>
+<a href="https://twitter.com/md_ariful_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_ariful_hasan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mdahtotul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdahtotul" height="30" width="40" /></a>
 </p>
 
@@ -41,6 +44,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifulhasantotul&show_icons=true&locale=en&layout=compact" alt="arifulhasantotul" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulhasantotul&show_icons=true&locale=en" alt="arifulhasantotul" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=arifulhasantotul&show_icons=true&locale=en" alt="arifulhasantotul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifulhasantotul&" alt="arifulhasantotul" /></p>
